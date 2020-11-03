@@ -1,0 +1,4 @@
+/logs/*.log
+/logs/API_TEST_LOG
+/reports/API_TEST_V*
+/.idea
